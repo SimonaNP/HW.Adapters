@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">9GAG-ish</string>
+    <string name="title_activity_comment">CommentActivity</string>
+</resources>
